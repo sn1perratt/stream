@@ -1,0 +1,25 @@
+#box1{
+    float:left;
+    background-color:rgb(252, 8, 8);
+    width:250px;
+    height:250px;
+}
+ #box2{
+  
+     float:left;
+    background-color:rgb(16, 16, 227);
+    width:250px;
+    height:250px;
+}
+#box3{
+    float:left;
+    background-color:rgb(255, 255, 59);
+    width:250px;
+    height:250px;
+}
+#box4{
+    float:left;
+    background-color:rgb(6, 122, 37);
+    width:250px;
+    height:250px;
+}
